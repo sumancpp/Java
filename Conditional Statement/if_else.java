@@ -31,7 +31,6 @@ public class if_else {
         // }
 
 
-
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the value of a: ");
         int a = input.nextInt();
@@ -48,3 +47,4 @@ public class if_else {
 
     }
 }
+
