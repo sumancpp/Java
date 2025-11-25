@@ -10,10 +10,13 @@ public class moveacharectertotheendofthestring {
             return;
         }
         char currChar = str.charAt(idx);
-        if(currChar == 'x'){
+        if(currChar == 'x')
+        {
             count++;
             moveAllX(str, idx+1, count, newString);
-        }else{
+        } 
+        else
+        {
             newString += str.charAt(idx);
             moveAllX(str, idx+1, count, newString);
         }
