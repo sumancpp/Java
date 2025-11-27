@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class calculatesumofNnum {
     public static void calsum(int num, int sum , int st){
-        if(st == num){
+        if(st == num)
+        {
             sum += st;
             System.out.println("The sum is "+sum);
             return;
