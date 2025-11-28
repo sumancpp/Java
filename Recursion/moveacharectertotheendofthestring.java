@@ -22,6 +22,7 @@ public class moveacharectertotheendofthestring {
         }
         
     }
+    
     public static void main(String[] args) {
         String str = "axbcxxd";
         moveAllX(str, 0, 0, "");
