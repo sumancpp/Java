@@ -14,6 +14,7 @@ public class uniquesubsequenceofastring {
 
         // choose
         printSubseq(str, idx + 1, res + str.charAt(idx), allSubseq);
+
         // don't choose
         printSubseq(str, idx + 1, res, allSubseq);
     }
