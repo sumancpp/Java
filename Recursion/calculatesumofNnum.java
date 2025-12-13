@@ -2,13 +2,11 @@ import java.util.Scanner;
 
 public class calculatesumofNnum {
     public static void calsum(int num, int sum , int st){
-        if(st == num)
-        {
-            sum += st;
-            System.out.println("The sum is "+sum);
+        if(st > num){
+             System.out.println("The sum is "+sum);
             return;
         }
-      sum = sum + st;
+        sum += st;
       calsum(num, sum, st + 1);
     }
     public static void main(String[] args) {
