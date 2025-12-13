@@ -3,7 +3,7 @@ public class printNumform1to5 {
         if (n == 6){
             return ;
         }
-        System.out.println(n);
+        System.out.println(n);//1 , 2, 
         printNum(n + 1);
     }
     public static void main(String[] args) {
