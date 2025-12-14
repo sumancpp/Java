@@ -3,9 +3,9 @@ public class fibonacci {
         if(n == 0){
             return;
         }
-        int third = first + second;
-        System.out.println(third);
-        printfibonacci(second, third, n-1);
+        int third = first + second;  // 3
+        System.out.println(third);   // 3
+        printfibonacci(second, third, n-1);// (1, 3, 2)
 
     }
     public static void main(String[] args) {
