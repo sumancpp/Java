@@ -20,6 +20,7 @@ public class subsetofaset {
         subset.remove(subset.size() - 1);
     }
 
+
     public static void main(String args[]) {
         int n = 3;
         findSubsets(n, new ArrayList<Integer>());
