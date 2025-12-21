@@ -16,6 +16,6 @@ public class printkeypadcombination {
 
     public static void main(String[] args) {
         String number = "23";
-        printKeypadCombination(number, 0, "");
+        printKeypadCombination(number, 0 , "");
     }
 }
