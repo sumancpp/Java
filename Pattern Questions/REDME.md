@@ -3,10 +3,10 @@
 # Problem Set Solutions
 
 ## Problem 01
-![Problem 01](https://spotless-tan-md9cyd67fz-yaotao1cyt.edgeone.dev/Screenshot%20from%202025-12-22%2019-47-49.png)
+![Problem 01](https://military-aquamarine-uldwin4yb5-bws777a3mj.edgeone.dev/01.png)
 
 ## Problem 02
-![Problem 02](image-link-here)
+![Problem 02](https://ibb.co/dwq1qFpC)
 
 ## Problem 03
 ![Problem 03](image-link-here)
