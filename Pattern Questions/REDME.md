@@ -6,7 +6,7 @@
 ![Problem 01](https://military-aquamarine-uldwin4yb5-bws777a3mj.edgeone.dev/01.png)
 
 ## Problem 02
-![Problem 02](https://ibb.co/dwq1qFpC)
+![Problem 02](https://img.sanishtech.com/u/cd951a35c615ed6617c88daf6aa23b68.png)
 
 ## Problem 03
 ![Problem 03](image-link-here)
