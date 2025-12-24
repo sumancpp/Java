@@ -1,4 +1,4 @@
-//Q. Find  the number of ways in which you can invite n people to your party single or in pairs
+//Q. Find the number of ways in which you can invite n people to your party single or in pairs.
 
 public class invitepeopletoyourparty {
     public static int callGuest(int n){
