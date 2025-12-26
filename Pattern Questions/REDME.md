@@ -3,7 +3,7 @@
 # Problem Set Solutions
 
 ## Problem 01
-![Problem 01](https://military-aquamarine-uldwin4yb5-bws777a3mj.edgeone.dev/01.png)
+![Problem 01](https://img.sanishtech.com/u/f96b7dc8c0b9219d2e52f5554d194797.png)
 
 ## Problem 02
 ![Problem 02](https://img.sanishtech.com/u/cd951a35c615ed6617c88daf6aa23b68.png)
