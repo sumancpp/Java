@@ -38,7 +38,8 @@ public class Constructor {
         Student s1 = new Student();
         s1.name = "Suman Maity";
         s1.age = 21;
-        
+       
+
         Student s2 = new Student(s1);
         s2.studentInfo();
         
