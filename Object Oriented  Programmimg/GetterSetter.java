@@ -1,4 +1,4 @@
-class Account{
+class Account {
     public String name;
     protected String email;
     private String password;
