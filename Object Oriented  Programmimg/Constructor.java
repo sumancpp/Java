@@ -8,7 +8,7 @@ class Student {
         System.out.println(age);
     }
 
-    // Student(){
+    // Student() {
     //     System.out.println("HI, I am a constructor");
     // }
 
@@ -18,7 +18,7 @@ class Student {
     //   this.age = age;
     // }
 
-    Student(Student s2){
+    Student(Student s2) {
         this.name = s2.name;
         this.age = s2.age;
     }
