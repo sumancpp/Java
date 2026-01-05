@@ -6,11 +6,11 @@ class Account {
 
     // getter & setter
 
-    public String getPassword(){
+    public String getPassword() {
         return this.password;
     }
 
-    public void setPassword(String pass){
+    public void setPassword(String pass) {
          this.password = pass;
     }
 
