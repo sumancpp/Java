@@ -10,11 +10,13 @@ class Account {
         return this.password;
     }
 
+
     public void setPassword(String pass) {
          this.password = pass;
     }
 
 }
+
 
 public class GetterSetter {
     public static void main(String[] args) {
