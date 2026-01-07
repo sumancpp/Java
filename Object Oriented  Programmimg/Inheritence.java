@@ -1,5 +1,5 @@
 class Shape{
-    public void area(){
+    public void area() {
         System.out.println("Displaying... Area!");
     }
 
