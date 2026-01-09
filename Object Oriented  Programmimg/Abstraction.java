@@ -1,4 +1,4 @@
-abstract class Animal{
+abstract class Animal {
     abstract void walk();
     void breathe() {
        System.out.println("This animal breathes air");
