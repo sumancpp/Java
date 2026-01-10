@@ -28,6 +28,7 @@ class Chicken extends Animal {
 
 }
 
+
 public class Abstraction {
     public static void main(String[] args) {
       Horse horse = new Horse();
