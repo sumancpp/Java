@@ -18,6 +18,7 @@ class Horse extends Animal {
    }
 }    
 
+
 class Chicken extends Animal {
    Chicken() {
        System.out.println("Wow, you have created a Chicken!");
