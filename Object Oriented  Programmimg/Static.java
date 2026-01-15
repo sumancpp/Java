@@ -2,7 +2,7 @@ class Student {
     String name;
     static String collage;
 
- public static void changeClg(){
+ public static void changeClg() {
     collage = "New Collage";
     System.out.println(collage);
  }
