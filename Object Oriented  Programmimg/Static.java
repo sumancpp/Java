@@ -14,7 +14,7 @@ public class Static {
         Student s1 = new Student();
         System.out.println(s1.collage);
         s1.changeClg();
-        s1.name = "Suman";
+        s1.name = "Suman Maity";
         System.out.println(s1.name);
     }
 }
