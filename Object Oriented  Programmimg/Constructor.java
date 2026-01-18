@@ -3,7 +3,7 @@ class Student {
     int age;
     public double hight;
 
-    public void studentInfo(){
+    public void studentInfo() {
         System.out.println(name);
         System.out.println(age);
     }
