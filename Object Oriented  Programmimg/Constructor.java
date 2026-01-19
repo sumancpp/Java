@@ -23,7 +23,7 @@ class Student {
         this.age = s2.age;
     }
 
-    Student(){
+    Student() {
         
     }
 
