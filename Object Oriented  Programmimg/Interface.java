@@ -1,4 +1,4 @@
-interface Animal{
+interface Animal {
     int eyes = 2; //Public, static and final by default
 }
 
