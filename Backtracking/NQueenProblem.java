@@ -82,6 +82,7 @@ public class NQueenProblem {
             for (String row : board) {
                 System.out.println(row);
             }
+            
             System.out.println();
         }
     }
