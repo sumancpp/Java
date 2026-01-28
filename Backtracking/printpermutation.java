@@ -1,6 +1,6 @@
 public class printpermutation {
 
-    public static void printPermutation(String str, String perm, int idx){
+    public static void printPermutation(String str, String perm, int idx) {
         if(str.length() == 0){
             System.out.println(perm);
             return;
