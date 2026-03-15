@@ -1,5 +1,4 @@
 public class sudokuSolver {
-
     public boolean isSafe(char[][] board, int row, int col, int number) {
 
         for(int i = 0; i < board.length; i++) {
