@@ -40,6 +40,5 @@ public class arrayList {
     // sorting
         Collections.sort(list);
         System.out.println(list);
-
     }
 }
