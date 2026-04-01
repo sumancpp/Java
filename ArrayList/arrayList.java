@@ -13,7 +13,7 @@ public class arrayList {
         System.out.println(list);
 
     // get elements[get method always need index number]
-        int elem = list.get(0);
+        int elem = list.get(1);
         System.out.println(elem);
 
     // add elements in between arraylist
