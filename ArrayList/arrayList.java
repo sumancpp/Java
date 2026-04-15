@@ -7,7 +7,7 @@ public class arrayList {
 
     // add elements
         list.add(1);
-        list.add(3);
+        list.add(5);
         list.add(7);
 
         System.out.println(list);
